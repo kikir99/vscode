@@ -1,0 +1,18 @@
+body {
+    background-image:url(wallhaven-7jgyre.jpg);
+    background-size: cover;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: monospace;
+}
+
+.clock-container h1 {
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 20px #ffffff;
+
+}
